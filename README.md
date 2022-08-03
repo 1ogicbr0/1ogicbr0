@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehryaar 👨‍💻 </h1>
 <p align="center">Love how to build stuff and break em as well</p>
  
- ### Connect to me
    🔸 Twitter : @ShehryaarKhan4
  
    🔸 HackTheBox: [1ogic](https://app.hackthebox.com/profile/171965)
