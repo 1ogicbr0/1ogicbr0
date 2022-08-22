@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehryaar 👨‍💻 </h1>
-<p align="center">Love how to build stuff and break em as well</p>
+<p align="center">Love to build stuff and break em as well</p>
  
    🔸 Twitter : @ShehryaarKhan4
  
