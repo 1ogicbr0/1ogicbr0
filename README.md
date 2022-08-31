@@ -3,7 +3,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋++I'm+Shehryaar+👨‍💻)](https://git.io/typing-svg)-->
 
-<p align="center">Love to build stuff and break em as well</p>
+<p align="center"><b>Love to build stuff and break em as well</b></p>
  
    🔸 Twitter : @ShehryaarKhan4
  
