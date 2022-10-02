@@ -29,4 +29,6 @@
 
 <p align="center">&nbsp;<img style="background-color:black" align="center" src="https://github-readme-stats.vercel.app/api?username=1ogicbr0&show_icons=true&locale=en&theme=algolia&icon_color=black&border_radius=5" alt="1ogicbr0" /></p>
 
-<p align="center">&nbsp;<img style="background-color:black" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ogicbr0&layout=compact&theme=react&border_radius=5" alt="1ogicbr0" /></p>
+<p align="center">&nbsp;<img style="background-color:black" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ogicbr0&layout=compact&theme=react&border_radius=5&hide=assembly" alt="1ogicbr0" /></p>
+
+<p align="center">&nbsp;<img style="background-color:black" align="center" src="https://activity-graph.herokuapp.com/graph?username=1ogicbr0&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe" alt="1ogicbr0" /></p>
